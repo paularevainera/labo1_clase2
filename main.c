@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int pedirNumero (void);
-
+ddd
 int main()
 {
     int pedirNumero(void);
