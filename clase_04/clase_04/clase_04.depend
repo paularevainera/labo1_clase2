@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553821868 source:/home/alumno/Documentos/REVAINERA/clase_04/clase_04/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1553822053 source:/home/alumno/Documentos/REVAINERA/clase_04/clase_04/funciones.c
+	<stdio.h>
+
+1553820979 /home/alumno/Documentos/REVAINERA/clase_04/clase_04/funciones.h
+
